@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignments
+title: Machine Learning
 description: This is Assignment page
 ---
 
