@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Syllabus
-description: This is just another page
+title: Machine Learning
+description: This is Syllabus of the course
 ---
 
 ## Syllabus of the course "Machine Learning"
