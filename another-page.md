@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
+title: Syllabus
 description: This is just another page
 ---
 
-## Welcome to another page
+## Syllabus of the course "Machine Learning"
 
 _yay_
 
