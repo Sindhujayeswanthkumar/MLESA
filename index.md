@@ -24,9 +24,9 @@ Welcome to machine learning for engineering and science applications. We have se
 - Mathematical "Sophistication"
   - We will be introducing Linear Algebra, Probability and Optimization Ideas required but...
   - You must be comfortable with Mathematics
- - Degree of comfort with programming
+- Degree of comfort with programming
   - We will be using examples from Python, MATLAB so...
-  - YOu must understand Python, MATLAB syntax
+  - You must understand Python, MATLAB syntax
   - And must be comfortable with programming if you wish to take the course for credit
  
  ---
