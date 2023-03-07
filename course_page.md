@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Machine Learning
-description: Content available in ppts and pdfs
+title: Machine Learning for Engineering and Science Applications
+description: Check Video link and Course contents here.
 ---
 
 ## Course Content
