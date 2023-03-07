@@ -1,6 +1,15 @@
 ---
-layout: default
+
 ---
+## AIMS OF THE COURSE
+- To understand basic Machine Learning models thoroughly
+  - Specific emphasis on Deep Learning
+- To be familiar with some mordern ML techniques
+- To apply these techniques hands-on to problems in Engineering
+   - Examples - Medical Image Diagnosis, Turbulence Modeling
+   - You will have to learn and program in Python.
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
