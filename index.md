@@ -3,8 +3,6 @@ layout: default
 title: Machine Learning for Engineering and Science Applications
 ---
 
-# Machine Learning for Engineering and Science Applications
-
 ## Overview
 
 Welcome to machine learning for engineering and science applications. We have seen Amazon's recommendation system. You would have had several such things at using other software or other websites also. Basically you buy a bunch of stuff of this website and it recommends other things, you know maybe books, other books or other product that you might like. This is Amazon's Echo, it is effectively run by a speech recognition engine combined with website searches. We have been all using Google spam filter or any other company spam filter but Google works really really well as a part of our mail system it works very seamlessly nowadays. So now what is common between all these, all these 4, is essentially all of them use as an essential part of their algorithm, **Machine Learning Algorithms**.
