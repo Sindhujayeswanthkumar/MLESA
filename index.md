@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Machine Learning for Engineering and Science Applications
 ---
 
 # Machine Learning for Engineering and Science Applications
