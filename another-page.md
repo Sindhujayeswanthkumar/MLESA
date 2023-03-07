@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning
+title: Machine Learning for Engineering and Science Applications
 description: This is Syllabus of the course
 ---
 
