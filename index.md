@@ -9,7 +9,7 @@ Welcome to machine learning for engineering and science applications. We have se
 
 ---
 
-## AIMS OF THE COURSE
+## Aims of the course
 - To understand basic Machine Learning models thoroughly
   - Specific emphasis on Deep Learning
 - To be familiar with some mordern ML techniques
