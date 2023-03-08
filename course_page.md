@@ -19,7 +19,7 @@ description: Check Video link and Course contents here.
 <tr>
 <td>Lecture 1</td>
 <td>Introduction, History of Artificial Intelligence</td>
-<td></td>
+<td><a href="https://youtu.be/w1v-uQthcXs">Lecture 1 Video</td>
 <td><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a></td>
 </tr>
 </tbody>
