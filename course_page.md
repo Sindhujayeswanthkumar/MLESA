@@ -34,6 +34,36 @@ description: Check Video link and Course contents here.
   <td><a href="https://youtu.be/NDq_VaZ3iSQ">Lecture 3 Video</a></td>
 <td></td>
 </tr>
+   <tr>
+<td>Lecture 4</td>
+<td>Basic Operations</td>
+  <td><a href="https://youtu.be/zoAFy_6-k1M">Lecture 4 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td>Lecture 5</td>
+<td>Norms</td>
+  <td><a href="https://youtu.be/af3wvva1dus">Lecture 5 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td>Lecture 6</td>
+<td>Linear Combinations Span Linear Independence</td>
+  <td><a href="https://youtu.be/I4zAY8NiI_o">Lecture 6 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td>Lecture 7</td>
+<td>Matrix Operations, Special Matrices, Matrix Decompositions</td>
+  <td><a href="https://youtu.be/p_ADPkATAGA">Lecture 7 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td>Lecture 8</td>
+<td>Introduction to Probability Theory Discrete and Continuous Random Variables</td>
+  <td><a href="https://youtu.be/cp7_ZF2kNi4">Lecture 8 Video</a></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
