@@ -141,7 +141,7 @@ description: Check Video link and Course contents here.
 </tbody>
 </table>
 
-<button type="button" onclick="window.location.href='https://github.com/Sindhujayeswanthkumar/machine_learning/';">Next Page</button>
+<button type="button" onclick="window.location.href='https://github.com/Sindhujayeswanthkumar/machine_learning/course_page2.html';">Next Page</button>
 
 
 
