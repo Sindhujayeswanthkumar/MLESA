@@ -157,7 +157,7 @@ description: Check Video link and Course contents here.
 </tr>
 </tbody>
 </table>
-
+<br>
 <div class="pagination">
   <a href="#">&laquo;</a>
   <a href="course_page.html">1</a>
