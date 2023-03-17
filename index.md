@@ -11,8 +11,8 @@ title: Machine Learning for Engineering and Science Applications
 
 ## Aims of the course
 
-<p style="font-size: 15px;">
-  <ul>
+
+  <ul style="font-size: 15px;">
     <li>To understand basic Machine Learning models thoroughly</li>
     <ul>
   <li>Specific emphasis on Deep Learning</li>
@@ -22,14 +22,13 @@ title: Machine Learning for Engineering and Science Applications
     <ul>
   <li>Examples - Medical Image Diagnosis, Turbulence Modeling</li>
   <li>You will have to learn and program in Python.</li>
-  </ul></p>
+  </ul>
   
 ---
 
 ## Course Pre-requisites
   
-  <p style="font-size: 15px;">
-    <ul>
+    <ul style="font-size: 15px;">
       <li>Mathematical "Sophistication"</li>
       <ul>
         <li>We will be introducing Linear Algebra, Probability and Optimization Ideas required but...</li>
@@ -40,7 +39,7 @@ title: Machine Learning for Engineering and Science Applications
         <li>We will be using examples from Python, MATLAB so...</li>
         <li>You must understand Python, MATLAB syntax</li>
         <li>And must be comfortable with programming if you wish to take the course for credit</li>
-      </ul></p>
+      </ul>
     
  ---
 
