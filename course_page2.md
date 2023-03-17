@@ -9,7 +9,7 @@ description: Check Video link and Course contents here.
 <style>
 .pagination a {
   color: black;
-  float: right;
+  float: center;
   padding: 8px 16px;
   text-decoration: none;
   transition: background-color .3s;
@@ -162,10 +162,10 @@ description: Check Video link and Course contents here.
   <a href="#">&laquo;</a>
   <a href="course_page.html">1</a>
   <a class="active" href="course_page2.html">2</a>
-  <a href="#">3</a>
-  <a href="#">4</a>
-  <a href="#">5</a>
-  <a href="#">6</a>
+  <a href="course_page3.html">3</a>
+  <a href="course_page4.html">4</a>
+  <a href="course_page5.html">5</a>
+  <a href="course_page6.html">6</a>
   <a href="#">&raquo;</a>
 </div>
 <br>
