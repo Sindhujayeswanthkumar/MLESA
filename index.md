@@ -22,21 +22,26 @@ title: Machine Learning for Engineering and Science Applications
     <ul>
   <li>Examples - Medical Image Diagnosis, Turbulence Modeling</li>
   <li>You will have to learn and program in Python.</li>
-  </ul>
-    
-  </div>
+  </ul></div>
   
 ---
 
 ## Course Pre-requisites
-- Mathematical "Sophistication"
-  - We will be introducing Linear Algebra, Probability and Optimization Ideas required but...
-  - You must be comfortable with Mathematics
-- Degree of comfort with programming
-  - We will be using examples from Python, MATLAB so...
-  - You must understand Python, MATLAB syntax
-  - And must be comfortable with programming if you wish to take the course for credit
- 
+  
+  <div style="font-size: 15px;">
+    <ul>
+      <li>Mathematical "Sophistication"</li>
+      <ul>
+        <li>We will be introducing Linear Algebra, Probability and Optimization Ideas required but...</li>
+        <li>You must be comfortable with Mathematics</li>
+      </ul>
+      <li>Degree of comfort with programming</li>
+      <ul>
+        <li>We will be using examples from Python, MATLAB so...</li>
+        <li>You must understand Python, MATLAB syntax</li>
+        <li>And must be comfortable with programming if you wish to take the course for credit</li>
+      </ul></div>
+    
  ---
 
 
