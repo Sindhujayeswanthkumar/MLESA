@@ -141,15 +141,7 @@ description: Check Video link and Course contents here.
 </tbody>
 </table>
 
-<nav aria-label="Page navigation example">
-  <ul class="pagination">
-    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-    <li class="page-item"><a class="page-link" href="#">1</a></li>
-    <li class="page-item"><a class="page-link" href="#">2</a></li>
-    <li class="page-item"><a class="page-link" href="#">3</a></li>
-    <li class="page-item"><a class="page-link" href="#">Next</a></li>
-  </ul>
-</nav>
 
-<button type="button" onclick="window.location.href='https://github.com/Sindhujayeswanthkumar/machine_learning/';">Previous Page</button>
+
+<button type="button" onclick="window.location.href='course_page.html';">Previous Page</button>
 <button type="button" onclick="window.location.href='https://github.com/Sindhujayeswanthkumar/machine_learning/';">Next Page</button>
