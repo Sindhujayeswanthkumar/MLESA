@@ -84,6 +84,60 @@ description: Check Video link and Course contents here.
   <td style="font-size: 15px;"><a href="https://youtu.be/XtniA_N63z4">Lecture 11 Video</a></td>
 <td></td>
 </tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 12</td>
+<td style="font-size: 15px;">Expectation</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/V4HH_Sc9EZk">Lecture 12 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 13</td>
+<td style="font-size: 15px;">Variance Covariance</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/xiB6f1GdFUc">Lecture 13 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 14</td>
+<td style="font-size: 15px;">Some Relations for Expectation and Covariance (Slightly Advanced)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/BtJjkET4IoA">Lecture 14 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 15</td>
+<td style="font-size: 15px;">Machine Representation of Numbers, Overflow, Underflow, Condition Number</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/xzah5O_93ZU">Lecture 15 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 16</td>
+<td style="font-size: 15px;">Derivatives,Gradient,Hessian,Jacobian,Taylor Series</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/fqq_UR4zhfI">Lecture 16 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 17</td>
+<td style="font-size: 15px;">Matrix Calculus (Slightly Advanced)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/IgAr5kzza78">Lecture 17 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 18</td>
+<td style="font-size: 15px;">Optimization – 1 Unconstrained Optimization</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/bDUDrfbZCCA">Lecture 18 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 19</td>
+<td style="font-size: 15px;">Introduction to Constrained Optimization</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/Dn1vmANCvvs">Lecture 19 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 20</td>
+<td style="font-size: 15px;">Introduction to Numerical Optimization Gradient Descent - 1</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/D4zMKh3krPc">Lecture 20 Video</a></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
