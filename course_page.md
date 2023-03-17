@@ -159,7 +159,7 @@ description: Check Video link and Course contents here.
 
 <br>
 <div class="pagination">
-  <a href="#">&laquo;</a>
+  
   <a class="active" href="course_page.html">1</a>
   <a href="course_page2.html">2</a>
   <a href="course_page3.html">3</a>
