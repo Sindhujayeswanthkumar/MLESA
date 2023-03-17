@@ -66,6 +66,24 @@ description: Check Video link and Course contents here.
   <td style="font-size: 15px;"><a href="https://youtu.be/cp7_ZF2kNi4">Lecture 8 Video</a></td>
 <td></td>
 </tr>
+  <tr>
+<td style="font-size: 15px;">Lecture 9</td>
+<td style="font-size: 15px;">Conditional - Joint - Marginal Probabilities Sum Rule and Product Rule Bayes' Theorem</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/wHRUtNmPjyE">Lecture 9 Video</a></td>
+<td></td>
+</tr>
+  <tr>
+<td style="font-size: 15px;">Lecture 10</td>
+<td style="font-size: 15px;">Bayes' Theorem - Simple Examples</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/dY5xhLgfV1A">Lecture 10 Video</a></td>
+<td></td>
+</tr>
+   <tr>
+<td style="font-size: 15px;">Lecture 11</td>
+<td style="font-size: 15px;">Independence Conditional Independence Chain Rule Of Probability</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/XtniA_N63z4">Lecture 11 Video</a></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
