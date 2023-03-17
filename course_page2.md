@@ -9,7 +9,7 @@ description: Check Video link and Course contents here.
 <style>
 .pagination a {
   color: black;
-  float: left;
+  float: right;
   padding: 8px 16px;
   text-decoration: none;
   transition: background-color .3s;
@@ -160,14 +160,15 @@ description: Check Video link and Course contents here.
 
 <div class="pagination">
   <a href="#">&laquo;</a>
-  <a href="#">1</a>
-  <a class="active" href="#">2</a>
+  <a href="course_page.html">1</a>
+  <a class="active" href="course_page2.html">2</a>
   <a href="#">3</a>
   <a href="#">4</a>
   <a href="#">5</a>
   <a href="#">6</a>
   <a href="#">&raquo;</a>
 </div>
+<br>
 
 <button type="button" onclick="window.location.href='course_page.html';">Previous Page</button>
 <button type="button" onclick="window.location.href='https://github.com/Sindhujayeswanthkumar/machine_learning/';">Next Page</button>
