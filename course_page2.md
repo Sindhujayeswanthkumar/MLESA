@@ -159,16 +159,14 @@ description: Check Video link and Course contents here.
 </table>
 <br>
 <div class="pagination">
-  <a href="#">&laquo;</a>
+  <a href="course_page.html">&laquo;</a>
   <a href="course_page.html">1</a>
   <a class="active" href="course_page2.html">2</a>
   <a href="course_page3.html">3</a>
   <a href="course_page4.html">4</a>
   <a href="course_page5.html">5</a>
   <a href="course_page6.html">6</a>
-  <a href="#">&raquo;</a>
+  <a href="course_page3.html">&raquo;</a>
 </div>
 <br>
-
-<button type="button" onclick="window.location.href='course_page.html';">Previous Page</button>
-<button type="button" onclick="window.location.href='https://github.com/Sindhujayeswanthkumar/machine_learning/';">Next Page</button>
+---
