@@ -10,6 +10,7 @@ title: Machine Learning for Engineering and Science Applications
 ---
 
 ## Aims of the course
+
 <div style="font-size: 20px;">
   <ul>
     <li>To understand basic Machine Learning models thoroughly</li>
@@ -22,6 +23,7 @@ title: Machine Learning for Engineering and Science Applications
   <li>Examples - Medical Image Diagnosis, Turbulence Modeling</li>
   <li>You will have to learn and program in Python.</li>
   </ul>
+    
   </div>
   
 ---
