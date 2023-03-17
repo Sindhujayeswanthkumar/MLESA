@@ -17,65 +17,65 @@ description: Check Video link and Course contents here.
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 15px;">Lecture 1</td>
-<td style="font-size: 15px;">Introduction, History of Artificial Intelligence</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/w1v-uQthcXs">Lecture 1 Video</a></td>
+<td style="font-size: 15px;">Lecture 21</td>
+<td style="font-size: 15px;">Gradient Descent – 2 Proof of Steepest Descent Numerical Gradient Calculation Stopping Criteria</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/S-I_ZITulbM">Lecture 21 Video</a></td>
 <td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
   Slides<br>
   PDFs</p></td>
 </tr>
   <tr>
-  <td style="font-size: 15px;">Lecture 2</td>
-<td style="font-size: 15px;">Overview of Machine Learning</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/whSKA8aO6xQ">Lecture 2 Video</a></td>
+  <td style="font-size: 15px;">Lecture 22</td>
+<td style="font-size: 15px;">Introduction to Packages</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/QqMKFCuyJTc">Lecture 22 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 3</td>
-<td style="font-size: 15px;">Why Linear Algebra ? Scalars, Vectors, Tensors</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/NDq_VaZ3iSQ">Lecture 3 Video</a></td>
+<td style="font-size: 15px;">Lecture 23</td>
+<td style="font-size: 15px;">The Learning Paradigm</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/WiqiCk9hOqo">Lecture 23 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;" >Lecture 4</td>
-<td style="font-size: 15px;">Basic Operations</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/zoAFy_6-k1M">Lecture 4 Video</a></td>
+<td style="font-size: 15px;" >Lecture 24</td>
+<td style="font-size: 15px;">A Linear Regression Example</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/lnZGbWzkbpo">Lecture 24 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 5</td>
-<td style="font-size: 15px;">Norms</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/af3wvva1dus">Lecture 5 Video</a></td>
+<td style="font-size: 15px;">Lecture 25</td>
+<td style="font-size: 15px;">Linear Regression Least Squares Gradient Descent</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/wjhT2YFNmlw">Lecture 25 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 6</td>
-<td style="font-size: 15px;">Linear Combinations Span Linear Independence</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/I4zAY8NiI_o">Lecture 6 Video</a></td>
+<td style="font-size: 15px;">Lecture 26</td>
+<td style="font-size: 15px;">Coding Linear Regression</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/yjTqX5WFbRo">Lecture 26 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 7</td>
-<td style="font-size: 15px;">Matrix Operations, Special Matrices, Matrix Decompositions</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/p_ADPkATAGA">Lecture 7 Video</a></td>
+<td style="font-size: 15px;">Lecture 27</td>
+<td style="font-size: 15px;">Generalized Function for Linear Regression</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/CbDMkitCjHg">Lecture 27 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 8</td>
-<td style="font-size: 15px;">Introduction to Probability Theory Discrete and Continuous Random Variables</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/cp7_ZF2kNi4">Lecture 8 Video</a></td>
+<td style="font-size: 15px;">Lecture 28</td>
+<td style="font-size: 15px;">Goodness of Fit</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/hdKrUoeUQjE">Lecture 28 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 9</td>
-<td style="font-size: 15px;">Conditional - Joint - Marginal Probabilities Sum Rule and Product Rule Bayes' Theorem</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/wHRUtNmPjyE">Lecture 9 Video</a></td>
+<td style="font-size: 15px;">Lecture 29</td>
+<td style="font-size: 15px;">Bias-Variance Trade Off</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/PiWZ9tCgxUE">Lecture 29 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 10</td>
-<td style="font-size: 15px;">Bayes' Theorem - Simple Examples</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/dY5xhLgfV1A">Lecture 10 Video</a></td>
+<td style="font-size: 15px;">Lecture 30</td>
+<td style="font-size: 15px;">Gradient Descent Algorithms</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/8AT3AV-QcxM">Lecture 30 Video</a></td>
 <td></td>
 </tr>
    <tr>
