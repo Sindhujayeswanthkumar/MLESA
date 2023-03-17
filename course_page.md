@@ -5,6 +5,22 @@ description: Check Video link and Course contents here.
 ---
 
 ## Course Content
+<style>
+.pagination a {
+  color: black;
+  float: center;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+.pagination a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+</style>
 
 <table>
 <thead>
