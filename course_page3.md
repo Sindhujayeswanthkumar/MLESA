@@ -86,7 +86,8 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">Lecture 49</td>
 <td style="font-size: 15px;">Introduction to Convolution Neural Networks (CNN)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/cFgASecJGo8">Lecture 49 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/18CtSe6fUdmrhtQpPGVoQAjrkgpIDMFKx/edit#slide=id.p38">Slide-1</a><br>
+  PDFs</p></td>
 </tr>
   <tr>
 <td style="font-size: 15px;">Lecture 50</td>
@@ -98,33 +99,37 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">Lecture 51</td>
 <td style="font-size: 15px;">CNN Architecture Part 1 (LeNet and Alex Net)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/T7t1uTzh3oI">Lecture 51 Video</a></td>
-<td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
-  <a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slides</a><br>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slide-1</a><br>
+  <a href="https://docs.google.com/presentation/d/1AQ5JmOOLR6trsU2Oh-LsJxOmZopQVGtL/edit#slide=id.p1">Slide-2</a><br>
   PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 52</td>
 <td style="font-size: 15px;">CNN Architecture Part 2 (VGG Net)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/GrLaytcy15M">Lecture 52 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 53</td>
 <td style="font-size: 15px;">CNN Architecture Part 3 (GoogleNet)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/AUH1hm30VG4">Lecture 53 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 54</td>
 <td style="font-size: 15px;">CNN Architecture Part 4 (ResNet)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/iBepeakXC08">Lecture 54 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 55</td>
 <td style="font-size: 15px;">CNN Architecture Part 5 (DenseNet)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/oV4YBitzXKw">Lecture 55 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 56</td>
