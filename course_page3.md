@@ -125,33 +125,33 @@ description: Check Video link and Course contents here.
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 16</td>
-<td style="font-size: 15px;">Derivatives,Gradient,Hessian,Jacobian,Taylor Series</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/fqq_UR4zhfI">Lecture 16 Video</a></td>
+<td style="font-size: 15px;">Lecture 56</td>
+<td style="font-size: 15px;">Train Network for Image Classification</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/TFweeMtkRLM">Lecture 56 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 17</td>
-<td style="font-size: 15px;">Matrix Calculus (Slightly Advanced)</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/IgAr5kzza78">Lecture 17 Video</a></td>
+<td style="font-size: 15px;">Lecture 57</td>
+<td style="font-size: 15px;">Semantic Segmentation</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/_N7HRnBgoCw">Lecture 57 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 18</td>
-<td style="font-size: 15px;">Optimization – 1 Unconstrained Optimization</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/bDUDrfbZCCA">Lecture 18 Video</a></td>
+<td style="font-size: 15px;">Lecture 58</td>
+<td style="font-size: 15px;">Hyperparameter optimization</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/lFughnnbBi4">Lecture 58 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 19</td>
-<td style="font-size: 15px;">Introduction to Constrained Optimization</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/Dn1vmANCvvs">Lecture 19 Video</a></td>
+<td style="font-size: 15px;">Lecture 59</td>
+<td style="font-size: 15px;">Transfer Learning</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/0a8WgnFdTEI">Lecture 59 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 20</td>
-<td style="font-size: 15px;">Introduction to Numerical Optimization Gradient Descent - 1</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/D4zMKh3krPc">Lecture 20 Video</a></td>
+<td style="font-size: 15px;">Lecture 60</td>
+<td style="font-size: 15px;">Segmentation of Brain Tumors from MRI using Deep Learning</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/PcNqAVNCZrE">Lecture 60 Video</a></td>
 <td></td>
 </tr>
 </tbody>
