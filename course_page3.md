@@ -98,7 +98,9 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">Lecture 51</td>
 <td style="font-size: 15px;">CNN Architecture Part 1 (LeNet and Alex Net)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/T7t1uTzh3oI">Lecture 51 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
+  <a href="">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 52</td>
