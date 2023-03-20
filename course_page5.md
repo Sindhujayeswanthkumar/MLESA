@@ -110,19 +110,22 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">Lecture 93</td>
 <td style="font-size: 15px;">Introduction to Generative model</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/u2dQ8DtRuZg">Lecture 93 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 94</td>
 <td style="font-size: 15px;">Generative Adversarial Networks (GAN)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/MKedB9qOHi4">Lecture 94 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/1IGlBw9B17SieVMT0u-dJmQYNRnCjwpPy/edit#slide=id.p3">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 95</td>
 <td style="font-size: 15px;">Variational Auto-encoders (VAE)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/2m9E-aSXtl8">Lecture 95 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 96</td>
