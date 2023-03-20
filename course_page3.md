@@ -34,94 +34,94 @@ description: Check Video link and Course contents here.
 <tbody>
 <tr>
 <td style="font-size: 15px;">Lecture 41</td>
-<td style="font-size: 15px;">Introduction, History of Artificial Intelligence</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/w1v-uQthcXs">Lecture 1 Video</a></td>
+<td style="font-size: 15px;">Biological neuron</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/PQEpTu47fS4">Lecture 41 Video</a></td>
 <td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
   Slides<br>
   PDFs</p></td>
 </tr>
   <tr>
-  <td style="font-size: 15px;">Lecture 2</td>
-<td style="font-size: 15px;">Overview of Machine Learning</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/whSKA8aO6xQ">Lecture 2 Video</a></td>
+  <td style="font-size: 15px;">Lecture 42</td>
+<td style="font-size: 15px;">Schematic of multinomial logistic regression</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/-JJNKOhkFqA">Lecture 42 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 3</td>
-<td style="font-size: 15px;">Why Linear Algebra ? Scalars, Vectors, Tensors</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/NDq_VaZ3iSQ">Lecture 3 Video</a></td>
+<td style="font-size: 15px;">Lecture 43</td>
+<td style="font-size: 15px;">Multinomial Classification - Softmax</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/cM4lmkq8XsU">Lecture 43 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;" >Lecture 4</td>
-<td style="font-size: 15px;">Basic Operations</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/zoAFy_6-k1M">Lecture 4 Video</a></td>
+<td style="font-size: 15px;" >Lecture 44</td>
+<td style="font-size: 15px;">Code for Logistic Regression</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/v31hgzbge88">Lecture 44 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 5</td>
-<td style="font-size: 15px;">Norms</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/af3wvva1dus">Lecture 5 Video</a></td>
+<td style="font-size: 15px;">Lecture 45</td>
+<td style="font-size: 15px;">Gradient of logistic regression</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/xXvgkILaFT4">Lecture 45 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 6</td>
-<td style="font-size: 15px;">Linear Combinations Span Linear Independence</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/I4zAY8NiI_o">Lecture 6 Video</a></td>
+<td style="font-size: 15px;">Lecture 46</td>
+<td style="font-size: 15px;">Differentiating the sigmoid</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/pIRHtwRxE3k">Lecture 46 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 7</td>
-<td style="font-size: 15px;">Matrix Operations, Special Matrices, Matrix Decompositions</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/p_ADPkATAGA">Lecture 7 Video</a></td>
+<td style="font-size: 15px;">Lecture 47</td>
+<td style="font-size: 15px;">Binary Entropy cost function</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/2ca_K2rgNVA">Lecture 47 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 8</td>
-<td style="font-size: 15px;">Introduction to Probability Theory Discrete and Continuous Random Variables</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/cp7_ZF2kNi4">Lecture 8 Video</a></td>
+<td style="font-size: 15px;">Lecture 48</td>
+<td style="font-size: 15px;">Introduction to Week 5 (Deep Learning)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/vBRQXXCnOiE">Lecture 48 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 9</td>
-<td style="font-size: 15px;">Conditional - Joint - Marginal Probabilities Sum Rule and Product Rule Bayes' Theorem</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/wHRUtNmPjyE">Lecture 9 Video</a></td>
+<td style="font-size: 15px;">Lecture 49</td>
+<td style="font-size: 15px;">Introduction to Convolution Neural Networks (CNN)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/cFgASecJGo8">Lecture 49 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 10</td>
-<td style="font-size: 15px;">Bayes' Theorem - Simple Examples</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/dY5xhLgfV1A">Lecture 10 Video</a></td>
+<td style="font-size: 15px;">Lecture 50</td>
+<td style="font-size: 15px;">Types of convolution</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/gmr18xg4wTg">Lecture 50 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 11</td>
-<td style="font-size: 15px;">Independence Conditional Independence Chain Rule Of Probability</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/XtniA_N63z4">Lecture 11 Video</a></td>
+<td style="font-size: 15px;">Lecture 51</td>
+<td style="font-size: 15px;">CNN Architecture Part 1 (LeNet and Alex Net)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/T7t1uTzh3oI">Lecture 51 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 12</td>
-<td style="font-size: 15px;">Expectation</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/V4HH_Sc9EZk">Lecture 12 Video</a></td>
+<td style="font-size: 15px;">Lecture 52</td>
+<td style="font-size: 15px;">CNN Architecture Part 2 (VGG Net)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/GrLaytcy15M">Lecture 52 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 13</td>
-<td style="font-size: 15px;">Variance Covariance</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/xiB6f1GdFUc">Lecture 13 Video</a></td>
+<td style="font-size: 15px;">Lecture 53</td>
+<td style="font-size: 15px;">CNN Architecture Part 3 (GoogleNet)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/AUH1hm30VG4">Lecture 53 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 14</td>
-<td style="font-size: 15px;">Some Relations for Expectation and Covariance (Slightly Advanced)</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/BtJjkET4IoA">Lecture 14 Video</a></td>
+<td style="font-size: 15px;">Lecture 54</td>
+<td style="font-size: 15px;">CNN Architecture Part 4 (ResNet)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/iBepeakXC08">Lecture 54 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 15</td>
-<td style="font-size: 15px;">Machine Representation of Numbers, Overflow, Underflow, Condition Number</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/xzah5O_93ZU">Lecture 15 Video</a></td>
+<td style="font-size: 15px;">Lecture 55</td>
+<td style="font-size: 15px;">CNN Architecture Part 5 (DenseNet)</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/oV4YBitzXKw">Lecture 55 Video</a></td>
 <td></td>
 </tr>
    <tr>
