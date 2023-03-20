@@ -99,7 +99,7 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">CNN Architecture Part 1 (LeNet and Alex Net)</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/T7t1uTzh3oI">Lecture 51 Video</a></td>
 <td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
-  <a href="CNN Architectures_2cont.pptx">Slides</a><br>
+  <a href="https://docs.google.com/presentation/d/1rB-iul60pg9X9l2jt-Q2pb9g5tXLOY6H/edit#slide=id.p1">Slides</a><br>
   PDFs</p></td>
 </tr>
    <tr>
