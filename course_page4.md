@@ -34,124 +34,124 @@ description: Check Video link and Course contents here.
 <tbody>
 <tr>
 <td style="font-size: 15px;">Lecture 61</td>
-<td style="font-size: 15px;">Introduction, History of Artificial Intelligence</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/w1v-uQthcXs">Lecture 1 Video</a></td>
+<td style="font-size: 15px;">Introduction to RNNs</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/2qak7ADfmpY">Lecture 61 Video</a></td>
 <td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
   Slides<br>
   PDFs</p></td>
 </tr>
   <tr>
-  <td style="font-size: 15px;">Lecture 2</td>
-<td style="font-size: 15px;">Overview of Machine Learning</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/whSKA8aO6xQ">Lecture 2 Video</a></td>
+  <td style="font-size: 15px;">Lecture 62</td>
+<td style="font-size: 15px;">Summary of RNNs</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/jhPQHEwZezg">Lecture 62 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 3</td>
-<td style="font-size: 15px;">Why Linear Algebra ? Scalars, Vectors, Tensors</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/NDq_VaZ3iSQ">Lecture 3 Video</a></td>
+<td style="font-size: 15px;">Lecture 63</td>
+<td style="font-size: 15px;">Deep RNNs and Bi- RNNs</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/OLO6kyxwqnY">Lecture 63 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;" >Lecture 4</td>
-<td style="font-size: 15px;">Basic Operations</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/zoAFy_6-k1M">Lecture 4 Video</a></td>
+<td style="font-size: 15px;">Lecture 64</td>
+<td style="font-size: 15px;">Why LSTM Works</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/AJGQA9qODXc">Lecture 64 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 5</td>
-<td style="font-size: 15px;">Norms</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/af3wvva1dus">Lecture 5 Video</a></td>
+<td style="font-size: 15px;">Lecture 65</td>
+<td style="font-size: 15px;">LSTM</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/geOEfpN98VQ">Lecture 65 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 6</td>
-<td style="font-size: 15px;">Linear Combinations Span Linear Independence</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/I4zAY8NiI_o">Lecture 6 Video</a></td>
+<td style="font-size: 15px;">Lecture 66</td>
+<td style="font-size: 15px;">RNN Architectures</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/1t3xixWyx2M">Lecture 66 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 7</td>
-<td style="font-size: 15px;">Matrix Operations, Special Matrices, Matrix Decompositions</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/p_ADPkATAGA">Lecture 7 Video</a></td>
+<td style="font-size: 15px;">Lecture 67</td>
+<td style="font-size: 15px;">Vanishing Gradients and TBPTT</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/SNGrLSeLj8A">Lecture 67 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 8</td>
-<td style="font-size: 15px;">Introduction to Probability Theory Discrete and Continuous Random Variables</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/cp7_ZF2kNi4">Lecture 8 Video</a></td>
+<td style="font-size: 15px;">Lecture 68</td>
+<td style="font-size: 15px;">Training RNNs - Loss and BPTT</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/RrB605Mbpic">Lecture 68 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 9</td>
-<td style="font-size: 15px;">Conditional - Joint - Marginal Probabilities Sum Rule and Product Rule Bayes' Theorem</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/wHRUtNmPjyE">Lecture 9 Video</a></td>
+<td style="font-size: 15px;">Lecture 69</td>
+<td style="font-size: 15px;">Example - Sequence Classification</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/h5ZIw14BWoA">Lecture 69 Video</a></td>
 <td></td>
 </tr>
   <tr>
-<td style="font-size: 15px;">Lecture 10</td>
-<td style="font-size: 15px;">Bayes' Theorem - Simple Examples</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/dY5xhLgfV1A">Lecture 10 Video</a></td>
+<td style="font-size: 15px;">Lecture 70</td>
+<td style="font-size: 15px;">Batch Normalizing</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/yWQ3KWNv9pU">Lecture 70 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 11</td>
-<td style="font-size: 15px;">Independence Conditional Independence Chain Rule Of Probability</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/XtniA_N63z4">Lecture 11 Video</a></td>
+<td style="font-size: 15px;">Lecture 71</td>
+<td style="font-size: 15px;">Data Normalization</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/9rjJDHAkitY">Lecture 71 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 12</td>
-<td style="font-size: 15px;">Expectation</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/V4HH_Sc9EZk">Lecture 12 Video</a></td>
+<td style="font-size: 15px;">Lecture 72</td>
+<td style="font-size: 15px;">Learning Rate decay, Weight initialization</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/yWCj95DdWXs">Lecture 72 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 13</td>
-<td style="font-size: 15px;">Variance Covariance</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/xiB6f1GdFUc">Lecture 13 Video</a></td>
+<td style="font-size: 15px;">Lecture 73</td>
+<td style="font-size: 15px;">Activation Functions</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/wu-B_LHpBnU">Lecture 73 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 14</td>
-<td style="font-size: 15px;">Some Relations for Expectation and Covariance (Slightly Advanced)</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/BtJjkET4IoA">Lecture 14 Video</a></td>
+<td style="font-size: 15px;">Lecture 74</td>
+<td style="font-size: 15px;">Introduction- Week 09</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/QM4JJPe9BHc">Lecture 74 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 15</td>
-<td style="font-size: 15px;">Machine Representation of Numbers, Overflow, Underflow, Condition Number</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/xzah5O_93ZU">Lecture 15 Video</a></td>
+<td style="font-size: 15px;">Lecture 75</td>
+<td style="font-size: 15px;">Knn</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/NNuXuJFaJl4">Lecture 75 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 16</td>
-<td style="font-size: 15px;">Derivatives,Gradient,Hessian,Jacobian,Taylor Series</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/fqq_UR4zhfI">Lecture 16 Video</a></td>
+<td style="font-size: 15px;">Lecture 76</td>
+<td style="font-size: 15px;">Binary decision trees</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/uPwZ8DhQNjg">Lecture 76 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 17</td>
-<td style="font-size: 15px;">Matrix Calculus (Slightly Advanced)</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/IgAr5kzza78">Lecture 17 Video</a></td>
+<td style="font-size: 15px;">Lecture 77</td>
+<td style="font-size: 15px;">Binary regression trees</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/cG0IvHjHNcY">Lecture 77 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 18</td>
-<td style="font-size: 15px;">Optimization – 1 Unconstrained Optimization</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/bDUDrfbZCCA">Lecture 18 Video</a></td>
+<td style="font-size: 15px;">Lecture 78</td>
+<td style="font-size: 15px;">Bagging</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/enD2BvWSukI">Lecture 78 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 19</td>
-<td style="font-size: 15px;">Introduction to Constrained Optimization</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/Dn1vmANCvvs">Lecture 19 Video</a></td>
+<td style="font-size: 15px;">Lecture 79</td>
+<td style="font-size: 15px;">Random Forest</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/waBIrjzs4Tc">Lecture 79 Video</a></td>
 <td></td>
 </tr>
    <tr>
-<td style="font-size: 15px;">Lecture 20</td>
-<td style="font-size: 15px;">Introduction to Numerical Optimization Gradient Descent - 1</td>
-  <td style="font-size: 15px;"><a href="https://youtu.be/D4zMKh3krPc">Lecture 20 Video</a></td>
+<td style="font-size: 15px;">Lecture 80</td>
+<td style="font-size: 15px;">Boosting</td>
+  <td style="font-size: 15px;"><a href="https://youtu.be/i4OvvmRIz4A">Lecture 80 Video</a></td>
 <td></td>
 </tr>
 </tbody>
