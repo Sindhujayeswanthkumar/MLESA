@@ -37,8 +37,7 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">Lecture 21</td>
 <td style="font-size: 15px;">Gradient Descent – 2 Proof of Steepest Descent Numerical Gradient Calculation Stopping Criteria</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/S-I_ZITulbM">Lecture 21 Video</a></td>
-<td style="font-size: 15px;"><p><a href="https://drive.google.com/drive/folders/1v7Qtk46F1g8k8lVuoPf7KqDjYJq1MhSp">Transcript</a><br>
-  Slides<br>
+<td style="font-size: 15px;"><p>Slides<br>
   PDFs</p></td>
 </tr>
   <tr>
