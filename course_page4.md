@@ -92,7 +92,8 @@ description: Check Video link and Course contents here.
 <td style="font-size: 15px;">Lecture 70</td>
 <td style="font-size: 15px;">Batch Normalizing</td>
   <td style="font-size: 15px;"><a href="https://youtu.be/yWQ3KWNv9pU">Lecture 70 Video</a></td>
-<td></td>
+<td style="font-size: 15px;"><p><a href="https://docs.google.com/presentation/d/19PIJwgu0V6IN4NQzZx6fxQ85_-ZjiyOo/edit#slide=id.p1">Slides</a><br>
+  PDFs</p></td>
 </tr>
    <tr>
 <td style="font-size: 15px;">Lecture 71</td>
